@@ -88,7 +88,7 @@
             }
           },
           "title": "Blockchain",
-          "text": "Use the blockchain as a global platform to verify any data, file, or business process by anchoring data via the open chain protocol.",
+          "text": "Use the blockchain as a global platform to verify any data, file, or business process by anchoring records on to the Ethereum / Bitcoin network via the open chain protocol.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Download Windows</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "_tags": [
             "Theme"
@@ -141,7 +141,7 @@
           },
           "title": "Data Store",
           "text": "A data store is the container used to hold the records that are anchored &nbsp;on to the Ethereum / Bitcoin Blockchain.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reciept</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Bloackchain Reciept</a> ",
           "_tags": [
             "Theme"
           ],
@@ -193,7 +193,7 @@
           },
           "title": "Blockchain Reciept",
           "text": "Once a record has been anchored on to the Blockchain, you are issued with a BlockChain Reciept.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-a\" data-toolbar=\"-mbrBtnMove\">Dashboard</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-a\" data-toolbar=\"-mbrBtnMove\">Application Integration</a>",
           "_tags": [
             "Theme"
           ],
@@ -243,7 +243,7 @@
               "size": 0
             }
           },
-          "title": "Integrate",
+          "title": "Application Integration",
           "text": "Our blockchain app integrates with over a 1000+ external applications using our automate tool.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-g\" data-toolbar=\"-mbrBtnMove\">Automate</a>",
           "_tags": [
