@@ -192,7 +192,7 @@
             }
           },
           "title": "Blockchain Reciept",
-          "text": "Once a record has been anchored on to the Blockchain, you are issued with a BlockChain Reciept.",
+          "text": "Once a record has been anchored on to the Blockchain, it is issued with a blockchain reciept. This can later be used to verify the integtrity of the anchored data.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-a\" data-toolbar=\"-mbrBtnMove\">Application Integration</a>",
           "_tags": [
             "Theme"
