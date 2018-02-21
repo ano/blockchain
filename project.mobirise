@@ -90,7 +90,7 @@
           },
           "title": "Blockchain",
           "text": "Use the blockchain as a global platform to verify any data, file, or business process by anchoring records on to the Ethereum / Bitcoin network via the open chain protocol.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Download Windows</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Download Windows</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "_tags": [
             "Theme"
           ],
