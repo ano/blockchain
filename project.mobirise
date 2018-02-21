@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#49389c",
+        "primaryColor": "#3a2a8f",
         "secondaryColor": "#bfcecb",
         "successColor": "#f28281",
         "infoColor": "#7e9b9f",
@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#0079bf",
         "#49389c",
-        "#7d58c1"
+        "#7d58c1",
+        "#3a2a8f"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -89,7 +90,7 @@
           },
           "title": "Blockchain",
           "text": "Use the blockchain as a global platform to verify any data, file, or business process by anchoring records on to the Ethereum / Bitcoin network via the open chain protocol.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Download Windows</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Download Windows</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "_tags": [
             "Theme"
           ],
